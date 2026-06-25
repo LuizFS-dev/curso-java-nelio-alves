@@ -1,0 +1,6 @@
+.vscode/
+*.class
+desktop.ini
+Thumbs.db
+bin/
+obj/
