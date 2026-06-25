@@ -1,3 +1,18 @@
+/*
+ * TODO: POTENCIAL UPDATE FUTURA - CONVERSOR HISTÓRICO ACUMULADO
+  
+ * Conceito:
+    Calcular o total de dias decorridos desde a transição para o Calendário Gregoriano 
+    (15 de outubro de 1582) e aplicar a métrica do Calendário Fixo Internacional (Cotsworth) 
+    retroativamente de forma cumulativa até o presente.
+  
+ *  Fluxo Lógico Proposto:
+    1. Estabelecer o marco zero em 1582 e calcular a massa total de dias passados até o milisegundo atual.
+    2. Descontar e recalcular as regras de anos bissextos específicos de cada sistema ao longo dos séculos.
+    3. Redistribuir essa contagem total de dias na estrutura Cotsworth (13 meses de 28 dias + Year Day).
+    4. Renderizar o horário atual convertido com base no desvio histórico real acumulado.
+ */
+
 public class Relogio {
     public static void main(String[] args) {
 
