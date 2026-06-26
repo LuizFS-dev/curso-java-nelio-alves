@@ -1,6 +1,5 @@
 # Módulo 06: Estrutura Repetitiva (While)
 
-*Curso de Java e POO - Prof. Nélio Alves*
 *Data de execução: Junho de 2026*
 
 Nesta etapa, pratiquei a lógica de manter o bloco em execução enquanto uma condição específica for verdadeira. Pelo que entendi, parece ser ideal para cenários onde a quantidade de repetições não é predefinida (como validação de senhas ou leitura de dados até um ponto de parada).

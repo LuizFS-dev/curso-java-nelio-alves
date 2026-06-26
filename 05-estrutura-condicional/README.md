@@ -1,6 +1,5 @@
 # Módulo 05: Estrutura Condicional
 
-*Curso de Java e POO - Prof. Nélio Alves*
 *Data de execução: Maio de 2026*
 
 Nesta etapa do curso, o foco foi sair da execução linear e aprender a controlar o fluxo do programa através de desvios condicionais. Pratiquei a tomada de decisões no código usando blocos if-else, tratamento de intervalos numéricos e a aplicação prática de operadores lógicos e relacionais.

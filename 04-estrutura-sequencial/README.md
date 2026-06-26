@@ -1,6 +1,5 @@
 # Módulo 04: Estrutura Sequencial
 
-*Curso de Java e POO - Prof. Nélio Alves*
 *Data de execução: Maio de 2026*
 
 Nesta etapa, foquei em praticar a lógica linear mais básica do Java: captura de dados com Scanner, operações matemáticas básicas e formatação de saída no console.

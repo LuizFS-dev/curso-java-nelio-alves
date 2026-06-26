@@ -1,6 +1,5 @@
 # Módulo 06: Estrutura Repetitiva (For)
 
-*Curso de Java e POO - Prof. Nélio Alves*
 *Data de execução: Junho de 2026*
 
 Módulo focado na estrutura de repetição (`for`). Pratiquei a construção de loops, ideal para processamento de intervalos definidos, sequências numéricas e contagens regressivas ou progressivas.
