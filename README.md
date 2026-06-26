@@ -23,6 +23,7 @@ O projeto é estruturado em módulos progressivos. Cada diretório possui sua pr
 * **[05-estrutura-condicional](./05-estrutura-condicional/)** - Controle de fluxo baseado em desvios condicionais compostos e encadeados.
 * **[06-estrutura-repetitiva-for](./06-estrutura-repetitiva-for/)** - Loops com contagem predefinida e iterações cumulativas.
 * **[06-estrutura-repetitiva-while](./06-estrutura-repetitiva-while/)** - Loops baseados em condições de parada dinâmicas. *Inclui o projeto autônomo do Relógio Fixo Internacional (Plano Cotsworth).*
+* **[07-desafio-material-apoio](./07-desafio-material-apoio/)** - Transição entre a lógica estruturada e os conceitos iniciais de modularização.
 
 ---
 
@@ -35,4 +36,4 @@ Além da grade padrão de exercícios, este repositório abriga implementações
 
 ### Cronograma da Trilha
 * **Início dos Estudos:** 26 de Maio de 2026
-* **Fase Atual:** Fundamentos Concluídos / Preparando Introdução à POO
+* **Fase Atual:** Conclusão do Módulo de Nivelamento / Iniciando Introdução à POO
